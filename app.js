@@ -1,5 +1,5 @@
 let listOfSortedNumbers = [];
-let maxNumber = 10;
+let maxNumber = 100;
 let secretNumber = generateNumber();
 let attempts = 1;
 
@@ -20,7 +20,7 @@ function showTextInScreen(tag, text) {
 
 function showInicialMessage(){
     showTextInScreen('h1', 'Welcome to the Secret Number Game');
-    showTextInScreen('p', 'Chose a number from 1 to 10');
+    showTextInScreen('p', 'Chose a number from 1 to 100');
 }
 showInicialMessage();
 
