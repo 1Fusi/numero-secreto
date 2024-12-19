@@ -10,9 +10,11 @@ O presente projeto, tem como objetivo fazer um pequeno jogo onde a pessoa tem qu
 
 **As tecnologias utilizadas para desenvolver a ferramenta foram:**
 
-*     HTML5
-*     CSS
-*     JavaScript
+ *     ***<center>HTML5</center>***
+  
+  *      ***<center>CSS</center>***
+  
+  *      ***<center>JavaScript</center>***
 
 **Explicação do Código:**
 
